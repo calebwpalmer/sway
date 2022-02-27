@@ -1,2 +1,2 @@
-# sway
-A collection of tidy-centric weighting functions
+# tightrope
+A collection of tidy-friendly weighting functions
